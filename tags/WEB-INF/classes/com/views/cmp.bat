@@ -1,0 +1,1 @@
+javac -cp "c:\tomcat11\lib\servlet-api.jar;c:\tomcat11\lib\jsp-api.jar;c:\tomcat11\webapps\tags\WEB-INF\classes;." *.java
