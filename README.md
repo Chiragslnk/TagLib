@@ -1,14 +1,14 @@
 # TagLib
 Custom JSP Tag Library abstracting database queries, server-side pagination, and lifecycle scope tracking via reusable handlers.
 
-Key Features & Architecture
+Key Features & Architecture:-
 
-Direct Data Population
-Server-Side Pagination
-Scope & State Management
-Security & Reliability
+Direct Data Population, 
+Server-Side Pagination, 
+Scope & State Management, 
+Security & Reliability.
 
-Technical Stack
+Technical Stack:-
 Backend Integration: Java, Custom Tag Handlers
 Configuration: TLD mapping
 View Layer: JSP, Custom Tag Extensions.
